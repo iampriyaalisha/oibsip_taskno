@@ -20,5 +20,30 @@
    - Your score is calculated based on the number of attempts.
    - You can choose to play again after each round.
    - The final total score is displayed when you decide to exit the game.
+  
+# oisip_taskno2
+  * ATM Interface
+  * This repository contains the code for ATM Interface developed in Java.
+  * It offers basic ATM functionalities, including transaction history, withdrawals, deposits, fund transfers, and the option to exit.
+
+**Project Features:**
+
+- User-friendly.
+- Secure user authentication with user PIN.
+- Transaction history tracking.
+- Ability to withdraw cash.
+- Deposit funds into your account.
+- Transfer funds between accounts.
+- Easy exit option.
+
+**Usage:**
+
+1. Clone the repository to your local machine.
+2. Compile and run the Java code.
+3. Follow the on-screen instructions to use the ATM functionalities.
+
+Feel free to explore the code, use it as a learning resource, or contribute to its development. If you have any questions or suggestions, please don't hesitate to open an issue or reach out.
+
+Connect with me on GitHub to stay updated on this project and other coding endeavors. Happy coding!
    
  
